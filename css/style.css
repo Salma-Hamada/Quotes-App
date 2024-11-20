@@ -1,0 +1,17 @@
+body{
+    background-image: url("../painted-concrete-background.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.container .row button{
+    background-color: #4169e1;
+    border: 5px #4169e1 solid;
+    border-radius: 5%;
+    color: #fff;
+    height: 80px;
+    font-size: 18px;
+}
+.container .row button:hover{
+    background-color: #26408d;
+    border: 5px #26408d solid;
+}
